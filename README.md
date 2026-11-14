@@ -8,9 +8,8 @@ que resolvem problemas reais de quem joga e usa Linux.
 
 ## 🚀 Projetos
 
-| Projeto | O que faz |
-|---|---|
-| [💡 Luz do Teclado](https://github.com/ezekielso/luz-teclado) | Liga e desliga a luz de teclados genéricos no Linux (AppImage) |
+<!-- PROJETOS:START -->
+<!-- PROJETOS:END -->
 
 ## 📺 No canal
 

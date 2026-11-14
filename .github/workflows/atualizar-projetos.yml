@@ -1,0 +1,63 @@
+name: Atualizar projetos do perfil
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'      # a cada 6 horas
+  workflow_dispatch:            # botão "Run workflow"
+  push:
+    paths:
+      - '.github/workflows/atualizar-projetos.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar a tabela de projetos
+        env:
+          GH_TOKEN: ${{ github.token }}
+          USUARIO: ${{ github.repository_owner }}
+        run: |
+          python3 - << 'PY'
+          import json, os, re, urllib.request
+          user = os.environ["USUARIO"]
+          token = os.environ["GH_TOKEN"]
+          url = f"https://api.github.com/users/{user}/repos?per_page=100&type=owner&sort=created&direction=desc"
+          req = urllib.request.Request(url, headers={
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+          })
+          repos = json.load(urllib.request.urlopen(req))
+          linhas = []
+          for r in repos:
+              if r["fork"] or r["archived"] or r["private"]:
+                  continue
+              if r["name"].lower() == user.lower():
+                  continue
+              if "sem-perfil" in (r.get("topics") or []):
+                  continue
+              nome = r["name"].replace("-", " ").replace("_", " ").title()
+              desc = (r.get("description") or "").replace("|", "\\|")
+              linhas.append(f"| [{nome}]({r['html_url']}) | {desc} |")
+          tabela = "| Projeto | O que faz |\n|---|---|\n" + "\n".join(linhas)
+          texto = open("README.md", encoding="utf-8").read()
+          novo = re.sub(
+              r"(<!-- PROJETOS:START -->).*?(<!-- PROJETOS:END -->)",
+              lambda m: m.group(1) + "\n" + tabela + "\n" + m.group(2),
+              texto, flags=re.S)
+          if novo != texto:
+              open("README.md", "w", encoding="utf-8").write(novo)
+          PY
+
+      - name: Salvar se mudou
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "Atualiza lista de projetos"
+            git push
+          fi
