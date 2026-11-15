@@ -1,28 +1,47 @@
-# Fala, eu sou o Aaaiiicerol 👋
+<div align="center">
 
-🎮 Faço vídeos de **games e Linux** no YouTube e gosto de criar ferramentas pequenas
-que resolvem problemas reais de quem joga e usa Linux.
+# Olá, eu sou Aaaiiicerol 👋
 
-[![YouTube](https://img.shields.io/badge/YouTube-Aaaiiiceroll-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Aaaiiiceroll)
-[![Linux](https://img.shields.io/badge/Linux-Fedora-51A2DA?logo=fedora&logoColor=white)](https://fedoraproject.org)
+### 🎮 Games &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎬 Vídeos
 
-## 🚀 Projetos
+Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no Linux mais fácil.
 
-<!-- PROJETOS:START -->
-| Projeto | O que faz |
-|---|---|
-| [Zekflix](https://github.com/ezekielso/zekflix) | ZekFlix: seus filmes e séries locais em uma interface estilo Netflix para Linux |
-| [Zek Music](https://github.com/ezekielso/zek-music) | Player de músicas leve para Linux onde cada pasta vira uma playlist. Feito em Rust. |
-| [Luz Teclado](https://github.com/ezekielso/luz-teclado) | Liga e desliga a luz de teclados genéricos no Linux (AppImage) |
-<!-- PROJETOS:END -->
+<a href="https://www.youtube.com/@Aaaiiiceroll"><img src="https://img.shields.io/badge/YouTube-@aaaiiiceroll-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<img src="https://img.shields.io/badge/Linux-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
+<img src="https://img.shields.io/badge/Linux-Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
 
-## 📺 No canal
+</div>
 
-Vídeos sobre jogos no Linux, dicas, tutoriais e os projetos que apresento aqui.
-Se um programa meu te ajudou, passa no canal e deixa seu like. 🙂
+---
 
-👉 **[Ver o canal](https://www.youtube.com/@Aaaiiiceroll)**
+## 🚀 Meus projetos
 
-## 💬 Contato
+| Projeto | O que faz | Baixar |
+|---|---|---|
+| 🎵 **[Zek Music](https://github.com/aaaiiicerol/zek-music)** | Player de músicas leve: cada pasta vira uma playlist. Feito em Rust | [AppImage](https://github.com/aaaiiicerol/zek-music/releases/latest) |
+| 🎬 **[ZekFlix](https://github.com/aaaiiicerol/zekflix)** | Seus filmes e séries locais em uma interface estilo Netflix | [AppImage](https://github.com/aaaiiicerol/zekflix/releases/latest) |
+| 💡 **[Luz do Teclado](https://github.com/aaaiiicerol/luz-teclado)** | Liga e desliga a luz de teclados genéricos, sem digitar comandos | [AppImage](https://github.com/aaaiiicerol/luz-teclado/releases/latest) |
 
-Abra uma *issue* em qualquer projeto ou deixe um comentário nos vídeos.
+> Todos são gratuitos, de código aberto (MIT) e rodam como **AppImage**: é só baixar, dar permissão de execução e abrir.
+
+---
+
+## 🛠️ Tecnologias que uso
+
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
+</p>
+
+---
+
+<div align="center">
+
+### 📺 Gostou? Vem ver os vídeos no canal **@aaaiiiceroll**
+
+Sugestões de programas para games no Linux? Abra uma *issue* em qualquer projeto. 💙
+
+</div>
