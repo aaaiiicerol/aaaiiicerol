@@ -11,6 +11,7 @@ que resolvem problemas reais de quem joga e usa Linux.
 <!-- PROJETOS:START -->
 | Projeto | O que faz |
 |---|---|
+| [Zekflix](https://github.com/ezekielso/zekflix) | ZekFlix: seus filmes e séries locais em uma interface estilo Netflix para Linux |
 | [Zek Music](https://github.com/ezekielso/zek-music) | Player de músicas leve para Linux onde cada pasta vira uma playlist. Feito em Rust. |
 | [Luz Teclado](https://github.com/ezekielso/luz-teclado) | Liga e desliga a luz de teclados genéricos no Linux (AppImage) |
 <!-- PROJETOS:END -->
