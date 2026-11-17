@@ -11,7 +11,7 @@ Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no 
 <a href="https://www.youtube.com/@Aaaiiiceroll"><img src="https://img.shields.io/badge/YouTube-@aaaiiiceroll-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <img src="https://img.shields.io/badge/Linux-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
 <img src="https://img.shields.io/badge/Linux-Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
-<img src="https://img.shields.io/badge/Windows-11/10-blue?logo=windows&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Windows-11%2F10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </div>
 
 ---
