@@ -1,9 +1,12 @@
 <div align="center">
 
 
+
 # Olá, eu sou Aaaiiicerol 👋
 
 ### 🎮 Games • 🐧 Linux • 🎬 Vídeos • 💻 Desenvolvimento
+
+[![YouTube](https://img.shields.io/badge/YouTube-@aaaiiiceroll-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aaaiiiceroll)
 
 Faço vídeos sobre games e Linux e desenvolvo aplicativos para resolver problemas do dia a dia no computador.
 
@@ -61,28 +64,11 @@ Gosto de explorar o mundo Linux, experimentar tecnologias e criar programas grat
 
 ---
 
-## 🎬 Também estou no YouTube!
-
-Compartilho vídeos sobre games, Linux, tecnologia e experiências com programas e sistemas.
-
-[![YouTube](https://img.shields.io/badge/YouTube-@aaaiiiceroll-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aaaiiiceroll)
-
----
-
-### 💬 Vamos trocar ideias!
-
-Tem alguma sugestão de programa, encontrou um problema ou quer contribuir com algum projeto?
-
-Abra uma **Issue** no repositório correspondente. Toda sugestão é bem-vinda!
-
----
-
 <div align="center">
 
 **Feito com 💙 por Aaaiiicerol**
 
 🐧 Linux • 🎮 Games • 💻 Open Source
 
-</div>
 
 </div>
