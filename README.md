@@ -20,8 +20,7 @@ Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no 
 
    | Projeto | O que faz | Baixar |
    |---|---|---|
-   | 📥 **[Zek Download](https://github.com/aaaiiicerol/zek-download)** | Baixe vídeos e músicas de milhares de sites com interface simples e profissional. Usa yt-dlp e atualiza sozinho. | [.deb /
- .rpm](https://github.com/aaaiiicerol/zek-download/releases/latest) |
+   | 📥 **[Zek Download](https://github.com/aaaiiicerol/zek-download)** | Baixe vídeos e músicas de milhares de sites com interface simples e profissional. Usa yt-dlp e atualiza sozinho. 
    | 🎵 **[Zek Music](https://github.com/aaaiiicerol/zek-music)** | Player de músicas leve: cada pasta vira uma playlist. Feito em Rust | [AppImage](https://github.com/aaaiiicerol/zek-music/releases/latest) |
    | 🎬 **[ZekFlix](https://github.com/aaaiiicerol/zekflix)** | Seus filmes e séries locais em uma interface estilo Netflix | [AppImage](https://github.com/aaaiiicerol/zekflix/releases/latest) |
    | 💡 **[Luz do Teclado](https://github.com/aaaiiicerol/luz-teclado)** | Liga e desliga a luz de teclados genéricos, sem digitar comandos | [AppImage](https://github.com/aaaiiicerol/luz-teclado/releases/latest) |
