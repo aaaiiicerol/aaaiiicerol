@@ -20,6 +20,7 @@ Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no 
 
    | Projeto | O que faz | Baixar |
    |---|---|---|
+   | 📥 **[Zek Download-windows](https://github.com/aaaiiicerol/zek-download-windows)** | Baixe vídeos e músicas de milhares de sites com interface simples versão windows referita em Rust. Usa yt-dlp e atualiza sozinho. | [.deb /.rpm](https://github.com/aaaiiicerol/zek-download-windows/releases/latest) |
    | 📥 **[Zek Download](https://github.com/aaaiiicerol/zek-download)** | Baixe vídeos e músicas de milhares de sites com interface simples e profissional. Usa yt-dlp e atualiza sozinho. | [.deb /.rpm](https://github.com/aaaiiicerol/zek-download/releases/latest) |
    | 🎵 **[Zek Music](https://github.com/aaaiiicerol/zek-music)** | Player de músicas leve: cada pasta vira uma playlist. Feito em Rust | [AppImage](https://github.com/aaaiiicerol/zek-music/releases/latest) |
    | 🎬 **[ZekFlix](https://github.com/aaaiiicerol/zekflix)** | Seus filmes e séries locais em uma interface estilo Netflix | [AppImage](https://github.com/aaaiiicerol/zekflix/releases/latest) |
