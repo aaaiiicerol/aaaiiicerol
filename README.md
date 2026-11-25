@@ -6,6 +6,7 @@
 
 Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no Linux mais fácil.
 
+<a href="https://aaaiiicerol.github.io/"><img src="https://img.shields.io/badge/Meu%20Site-aaaiiicerol.github.io-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meu Site"></a>
 <a href="https://www.youtube.com/@Aaaiiiceroll"><img src="https://img.shields.io/badge/YouTube-@aaaiiiceroll-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <img src="https://img.shields.io/badge/Linux-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
 <img src="https://img.shields.io/badge/Linux-Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
@@ -107,6 +108,8 @@ Ferramentas open-source (MIT) para mídia e workflow no Linux — todas distribu
 ### 📺 Gostou? Vem ver os vídeos no canal **[@aaaiiiceroll](https://www.youtube.com/@Aaaiiiceroll)**
 
 Sugestões de programas para games no Linux? Abra uma *issue* em qualquer projeto. 💙
+
+🌐 Todos os projetos reunidos em um só lugar: **[aaaiiicerol.github.io](https://aaaiiicerol.github.io/)**
 
 ---
 
