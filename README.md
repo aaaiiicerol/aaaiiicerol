@@ -1,8 +1,6 @@
 <div align="center">
 
-
-
- Olá, eu sou Aaaiiicerol 👋
+# Olá, eu sou Aaaiiicerol 👋
 
 ### 🎮 Games &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎬 Vídeos
 
@@ -12,40 +10,106 @@ Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no 
 <img src="https://img.shields.io/badge/Linux-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
 <img src="https://img.shields.io/badge/Linux-Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
 <img src="https://img.shields.io/badge/Windows-11%2F10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+
 </div>
 
 ---
 
-## 🚀 Meus projetos
+## 🚀 Meus Projetos
 
-   | Projeto | O que faz | Baixar |
-   |---|---|---|
-   | 📥 **[Zek Download-windows](https://github.com/aaaiiicerol/zek-download-windows)** | Baixe vídeos e músicas de milhares de sites com interface simples versão windows refeita em Rust. Usa yt-dlp e atualiza sozinho. | [portable,install](https://github.com/aaaiiicerol/zek-download-windows/releases/latest) |
-   | 📥 **[Zek Download](https://github.com/aaaiiicerol/zek-download)** | Baixe vídeos e músicas de milhares de sites com interface simples e profissional. Usa yt-dlp e atualiza sozinho. | [.deb /.rpm](https://github.com/aaaiiicerol/zek-download/releases/latest) |
-   | 🎵 **[Zek Music](https://github.com/aaaiiicerol/zek-music)** | Player de músicas leve: cada pasta vira uma playlist. Feito em Rust | [windows,Linux](https://github.com/aaaiiicerol/zek-music/releases/latest) |
-   | 🎬 **[ZekFlix](https://github.com/aaaiiicerol/zekflix)** | Seus filmes e séries locais em uma interface estilo Netflix | [windows,Linux](https://github.com/aaaiiicerol/zekflix/releases/latest) |
-   | 💡 **[Luz do Teclado](https://github.com/aaaiiicerol/luz-teclado)** | Liga e desliga a luz de teclados genéricos, sem digitar comandos | [AppImage](https://github.com/aaaiiicerol/luz-teclado/releases/latest) |
+Ferramentas open-source (MIT) para mídia e workflow no Linux — todas distribuídas como **AppImage** (baixe, dê permissão e rode).
 
-> Todos são gratuitos, de código aberto (MIT) e rodam como **AppImage**: é só baixar, dar permissão de execução e abrir.
+<div align="center">
+
+### 🎵 Zek Music
+**Player leve onde cada pasta vira uma playlist** · Feito em Rust · [Releases](https://github.com/aaaiiicerol/zek-music/releases/latest)
+
+[![Zek Music](assets/zek-music.png)](https://github.com/aaaiiicerol/zek-music)
+
+---
+
+### 🎬 ZekFlix
+**Seus filmes e séries locais em interface estilo Netflix** · Tauri + Rust · [Releases](https://github.com/aaaiiicerol/zekflix/releases/latest)
+
+[![ZekFlix](assets/zekflix.png)](https://github.com/aaaiiicerol/zekflix)
+
+---
+
+### 📥 Zek Download
+**Baixe vídeos/áudio de milhares de sites** · Interface simples · yt-dlp · Auto-atualização · [Releases](https://github.com/aaaiiicerol/zek-download-windows/releases/latest)
+
+[![Zek Download](assets/zek-download.png)](https://github.com/aaaiiicerol/zek-download-windows)
+
+---
+
+### 💡 Luz do Teclado
+**Liga/desliga luz de teclados genéricos no Linux** · Sem terminal · AppImage · [Releases](https://github.com/aaaiiicerol/luz-teclado/releases/latest)
+
+[![Luz do Teclado](assets/luz-teclado.png)](https://github.com/aaaiiicerol/luz-teclado)
+
+</div>
+
+---
+
+<!-- PROJETOS:START -->
+<!-- A tabela abaixo é atualizada automaticamente a cada 6h via GitHub Action -->
+| Projeto | O que faz |
+|---|---|
+| [Zek Music](https://github.com/aaaiiicerol/zek-music) | Player de músicas leve: cada pasta vira uma playlist. Feito em Rust |
+| [ZekFlix](https://github.com/aaaiiicerol/zekflix) | Seus filmes e séries locais em uma interface estilo Netflix |
+| [Zek Download Windows](https://github.com/aaaiiicerol/zek-download-windows) | Baixe vídeos e músicas de milhares de sites com interface simples versão windows reescrita em Rust. Usa yt-dlp e atualiza sozinho. |
+| [Zek Download](https://github.com/aaaiiicerol/zek-download) | Baixe vídeos e músicas de milhares de sites com interface simples e profissional. Usa yt-dlp e atualiza sozinho. |
+| [Luz Do Teclado](https://github.com/aaaiiicerol/luz-teclado) | Liga e desliga a luz de teclados genéricos, sem digitar comandos |
+<!-- PROJETOS:END -->
+
+> 💡 **Dica**: Clique nas imagens acima para ir direto ao repositório de cada projeto.
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-<p>
+<div align="center">
+
+**Core**  
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+
+**GUI & Frameworks**  
 <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt">
-</p>
+<img src="https://img.shields.io/badge/GTK-3A92D0?style=flat-square&logo=gtk&logoColor=white" alt="GTK">
+
+**Media & Tools**  
+<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp">
+<img src="https://img.shields.io/badge/ffmpeg-00D9E2?style=flat-square&logo=ffmpeg&logoColor=white" alt="ffmpeg">
+<img src="https://img.shields.io/badge/mpv-666666?style=flat-square&logo=mpv&logoColor=white" alt="mpv">
+<img src="https://img.shields.io/badge/AppImage-000000?style=flat-square&logo=appimage&logoColor=white" alt="AppImage">
+
+**CI/CD**  
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aaaiiicerol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaiiicerol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+</div>
 
 ---
 
 <div align="center">
 
-### 📺 Gostou? Vem ver os vídeos no canal **@aaaiiiceroll**
+### 📺 Gostou? Vem ver os vídeos no canal **[@aaaiiiceroll](https://www.youtube.com/@Aaaiiiceroll)**
 
 Sugestões de programas para games no Linux? Abra uma *issue* em qualquer projeto. 💙
+
+---
+
+*Perfil atualizado automaticamente via GitHub Actions • Última atualização: `{{DATE}}`*
 
 </div>
