@@ -18,7 +18,7 @@ Faço vídeos sobre **games e Linux** e crio programinhas para deixar a vida no 
 
 ## 🚀 Meus Projetos
 
-Ferramentas open-source (MIT) para mídia e workflow no Linux — todas distribuídas como **AppImage** (baixe, dê permissão e rode).
+Ferramentas open-source (MIT) para mídia e produtividade — maioria como **AppImage** (baixe, dê permissão e rode), com instaladores no Windows e até na Microsoft Store.
 
 <div align="center">
 
@@ -30,14 +30,19 @@ Ferramentas open-source (MIT) para mídia e workflow no Linux — todas distribu
 ---
 
 ### 🎬 ZekFlix
-**Seus filmes e séries locais em interface estilo Netflix** · Tauri + Rust · [Releases](https://github.com/aaaiiicerol/zekflix/releases/latest)
+**Seus filmes e séries locais em interface estilo Netflix** · Python (PyQt6) + player mpv · [Releases](https://github.com/aaaiiicerol/zekflix/releases/latest)
 
 [![ZekFlix](assets/zekflix.png)](https://github.com/aaaiiicerol/zekflix)
 
 ---
 
 ### 📥 Zek Download
-**Baixe vídeos/áudio de milhares de sites** · Interface simples · yt-dlp · Auto-atualização · [Releases](https://github.com/aaaiiicerol/zek-download-windows/releases/latest)
+**Baixe vídeos e áudio de milhares de sites** com interface simples (yt-dlp) e atualização automática — em **duas versões**, uma pra cada sistema:
+
+| Versão | Linguagem | Repositório |
+|---|---|---|
+| 🪟 **Windows** | Rust | [aaaiiicerol/zek-download-windows](https://github.com/aaaiiicerol/zek-download-windows) · [Releases](https://github.com/aaaiiicerol/zek-download-windows/releases/latest) |
+| 🐧 **Linux** | Python | [aaaiiicerol/zek-download](https://github.com/aaaiiicerol/zek-download) · [Releases](https://github.com/aaaiiicerol/zek-download/releases/latest) |
 
 [![Zek Download](assets/zek-download.png)](https://github.com/aaaiiicerol/zek-download-windows)
 
