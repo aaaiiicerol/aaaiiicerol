@@ -60,12 +60,11 @@ Ferramentas open-source (MIT) para mídia e produtividade — maioria como **App
 <!-- PROJETOS:START -->
 | Projeto | O que faz |
 |---|---|
-| [Aaaiiicerol.Github.Io](https://github.com/aaaiiicerol/aaaiiicerol.github.io) |  |
-| [Zek Download Windows](https://github.com/aaaiiicerol/zek-download-windows) |  |
-| [Zek Download](https://github.com/aaaiiicerol/zek-download) |  |
-| [Zekflix](https://github.com/aaaiiicerol/zekflix) | ZekFlix: seus filmes e séries locais em uma interface estilo Netflix para Linux |
-| [Zek Music](https://github.com/aaaiiicerol/zek-music) | Player de músicas leve para Linux e Windows onde cada pasta vira uma playlist. Feito em Rust. |
-| [Luz Teclado](https://github.com/aaaiiicerol/luz-teclado) | Liga e desliga a luz de teclados genéricos no Linux (AppImage) |
+| [Zek Download (Windows)](https://github.com/aaaiiicerol/zek-download-windows) | Baixe vídeos/áudio de milhares de sites — versão **Windows**, em Rust (yt-dlp). |
+| [Zek Download (Linux)](https://github.com/aaaiiicerol/zek-download) | Baixe vídeos/áudio de milhares de sites — versão **Linux**, em Python (yt-dlp). |
+| [ZekFlix](https://github.com/aaaiiicerol/zekflix) | Seus filmes e séries locais em interface estilo Netflix. Python (PyQt6) + player mpv. |
+| [Zek Music](https://github.com/aaaiiicerol/zek-music) | Player de músicas leve: cada pasta vira uma playlist. Feito em Rust (egui). |
+| [Luz do Teclado](https://github.com/aaaiiicerol/luz-teclado) | Liga/desliga a luz de fundo de teclados genéricos no Linux, sem terminal. Rust. |
 <!-- PROJETOS:END -->
 
 > 💡 **Dica**: Clique nas imagens acima para ir direto ao repositório de cada projeto.
